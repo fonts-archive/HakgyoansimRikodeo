@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Hakgyoansim Rikodeo';
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimRikodeo/HakgyoansimRikodeo.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimRikodeo/HakgyoansimRikodeo.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimRikodeo/HakgyoansimRikodeo.otf') format('opentype'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimRikodeo/HakgyoansimRikodeo.ttf') format('truetype');
+}
